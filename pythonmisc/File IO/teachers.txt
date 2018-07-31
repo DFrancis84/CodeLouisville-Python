@@ -1,0 +1,22 @@
+Nick Pettit
+Amit Bijlani
+Pasan Premaratne
+Ben Jakuben
+Guil Hernandez
+Andrew Chalklye
+Dave McFarland
+Kenneth Love
+Craig Dennis
+Huston Hedinger
+Gabe Nadel
+Jeremy McLain
+Ben Deitch
+Chris Ramacciotti
+Alena Holligan
+Carling Kirk
+James Churchill
+
+//file.read(# of bits) = Read out so many bits of a data file
+//file.read() = Read the entire file
+//file.seek(0, -#) = to reset file.read back to home
+//for line in lines: print(line) = prints entire list on seperate lines
